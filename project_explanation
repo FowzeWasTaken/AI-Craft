@@ -1,0 +1,9 @@
+A tool that helps you craft, plan builds, get infos, like an older brother that has played Minecaft during all his childhood and now answers your questions.
+
+How I want to do it :
+A fabric mod would get all the infos of your current game (player stats, content of inventory, opened chests, game phase maybe with the achievements, etc)
+then you would have a separate app that would be connected to the mod and that would integrate an AI that is runned on the user PC, this AI would be "pre-trained" to know everything about minecraft
+The user can ask the AI on the app what can he build with the blocks in his inventory, what could he craft next to upgrade his stuff, what enchantment he is missing, how to build a creeper farm, etc
+then the AI would analyze the game with the fabric mod and maybe ask the user of some infos are missing and then the user would get his response
+
+is it hard ? i don't know, maybe. but i had this idea and i want to learn somehow
